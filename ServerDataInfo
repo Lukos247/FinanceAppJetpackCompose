@@ -7,31 +7,31 @@
   "offersMainMenu": [
     {
       "country": "RU",
-      "iconForUpload": "",
+      "iconForUpload": "https://www.рефинансируй.рф/img/icon-reason-1.png",
       "titleOfMenuElemnt": "Рефинансирование займов",
       "offersTypeId": "1"
     },
     {
       "country": "RU",
-      "iconForUpload": "",
+      "iconForUpload": "https://www.рефинансируй.рф/img/icon-reason-3.png",
       "titleOfMenuElemnt": "Банковские кредиты",
       "offersTypeId": "2"
     },
     {
       "country": "RU",
-      "iconForUpload": "",
+      "iconForUpload": "http://garfondrt.ru/assets/app/img/icon/2_podgotovka.svg",
       "titleOfMenuElemnt": "Займы",
       "offersTypeId": "3"
     },
     {
       "country": "RU",
-      "iconForUpload": "",
+      "iconForUpload": "https://kassaone.ru/tarify/images/light_zaim_icon.png",
       "titleOfMenuElemnt": "Кредитные карты",
       "offersTypeId": "4"
     },
     {
       "country": "RU",
-      "iconForUpload": "",
+      "iconForUpload": "https://s.platformalp.ru/img/icons-simple-solid/1--black.png",
       "titleOfMenuElemnt": "Дебетовые карты",
       "offersTypeId": "4"
     },
@@ -43,19 +43,19 @@
     },
     {
       "country": "UA",
-      "iconForUpload": "",
+      "iconForUpload": "http://garfondrt.ru/assets/app/img/icon/2_podgotovka.svg",
       "titleOfMenuElemnt": "Банковские кредиты",
       "offersTypeId": "2"
     },
     {
       "country": "UA",
-      "iconForUpload": "",
+      "iconForUpload": "http://garfondrt.ru/assets/app/img/icon/2_podgotovka.svg",
       "titleOfMenuElemnt": "Кредитные карты",
       "offersTypeId": "4"
     },
     {
       "country": "KZ",
-      "iconForUpload": "",
+      "iconForUpload": "http://garfondrt.ru/assets/app/img/icon/2_podgotovka.svg",
       "titleOfMenuElemnt": "Займы",
       "offersTypeId": "3"
     }
