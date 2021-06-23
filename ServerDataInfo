@@ -7,33 +7,33 @@
   "offersMainMenu": [
     {
       "country": "RU",
-      "iconForUpload": "https://www.рефинансируй.рф/img/icon-reason-1.png",
+      "iconForUpload": "https://e7.pngegg.com/pngimages/700/655/png-clipart-money-financial-services-loan-financial-transaction-dollar-icon-text-orange.png",
       "titleOfMenuElemnt": "Рефинансирование займов",
       "offersTypeId": "1"
     },
     {
       "country": "RU",
-      "iconForUpload": "https://www.рефинансируй.рф/img/icon-reason-3.png",
+      "iconForUpload": "https://w7.pngwing.com/pngs/290/845/png-transparent-money-loan-credit-bank-finance-bank-angle-payment-loan.png",
       "titleOfMenuElemnt": "Банковские кредиты",
       "offersTypeId": "2"
     },
     {
       "country": "RU",
-      "iconForUpload": "http://garfondrt.ru/assets/app/img/icon/2_podgotovka.svg",
+      "iconForUpload": "https://w7.pngwing.com/pngs/358/54/png-transparent-halyk-bank-money-loan-credit-bank-angle-text-investment.png",
       "titleOfMenuElemnt": "Займы",
       "offersTypeId": "3"
     },
     {
       "country": "RU",
-      "iconForUpload": "https://kassaone.ru/tarify/images/light_zaim_icon.png",
+      "iconForUpload": "https://png.pngtree.com/element_our/png/20181229/vector-loan-icon-png_302721.jpg",
       "titleOfMenuElemnt": "Кредитные карты",
       "offersTypeId": "4"
     },
     {
       "country": "RU",
-      "iconForUpload": "https://s.platformalp.ru/img/icons-simple-solid/1--black.png",
+      "iconForUpload": "https://w7.pngwing.com/pngs/372/818/png-transparent-finance-computer-icons-money-loan-business-meeting-service-hand-loan.png",
       "titleOfMenuElemnt": "Дебетовые карты",
-      "offersTypeId": "4"
+      "offersTypeId": "5"
     },
     {
       "country": "UA",
