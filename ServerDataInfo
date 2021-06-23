@@ -1,0 +1,84 @@
+{
+  "avaible_languages": [
+    "RU",
+    "UA",
+    "KZ"
+  ],
+  "offersMainMenu": [
+    {
+      "country": "RU",
+      "iconForUpload": "",
+      "titleOfMenuElemnt": "Рефинансирование займов",
+      "offersTypeId": "1"
+    },
+    {
+      "country": "RU",
+      "iconForUpload": "",
+      "titleOfMenuElemnt": "Банковские кредиты",
+      "offersTypeId": "2"
+    },
+    {
+      "country": "RU",
+      "iconForUpload": "",
+      "titleOfMenuElemnt": "Займы",
+      "offersTypeId": "3"
+    },
+    {
+      "country": "RU",
+      "iconForUpload": "",
+      "titleOfMenuElemnt": "Кредитные карты",
+      "offersTypeId": "4"
+    },
+    {
+      "country": "RU",
+      "iconForUpload": "",
+      "titleOfMenuElemnt": "Дебетовые карты",
+      "offersTypeId": "4"
+    },
+    {
+      "country": "UA",
+      "iconForUpload": "",
+      "titleOfMenuElemnt": "Займы",
+      "offersTypeId": "3"
+    },
+    {
+      "country": "UA",
+      "iconForUpload": "",
+      "titleOfMenuElemnt": "Банковские кредиты",
+      "offersTypeId": "2"
+    },
+    {
+      "country": "UA",
+      "iconForUpload": "",
+      "titleOfMenuElemnt": "Кредитные карты",
+      "offersTypeId": "4"
+    },
+    {
+      "country": "KZ",
+      "iconForUpload": "",
+      "titleOfMenuElemnt": "Займы",
+      "offersTypeId": "3"
+    }
+  ],
+  "offersList": [
+    {
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "1",
+      "offerTitle": "MoneyMan",
+      "rating": "5/5",
+      "offerDescription": "Описание моего оффера",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+    {
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "1",
+      "offerTitle": "MoneyMan",
+      "rating": "5/5",
+      "offerDescription": "Описание моего оффера",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    }
+  ],
+  "PrivacyPolicyURL": "Hello World"
+}
