@@ -80,6 +80,26 @@
       "rating": "5/5",
       "offerDescription": "Описание моего оффера",
       "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+        {
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "1",
+      "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
+      "offerTitle": "MYDATA",
+      "rating": "5/5",
+      "offerDescription": "Описание моего оффера",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+        {
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "1",
+      "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
+      "offerTitle": "MYDATA",
+      "rating": "5/5",
+      "offerDescription": "Описание моего оффера",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
     }
   ],
   "PrivacyPolicyURL": "Hello World"
