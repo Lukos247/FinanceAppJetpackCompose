@@ -8,96 +8,110 @@
     {
       "country": "RU",
       "iconForUpload": "https://financer.com/app/uploads/sites/25/2020/07/loan-calculator.png",
-      "titleOfMenuElemnt": "Рефинансирование займов",
+      "titleOfMenuElemnt": "Рефинансирование займов и кредиты",
       "offersTypeId": "1"
-    },
-    {
-      "country": "RU",
-      "iconForUpload": "https://w7.pngwing.com/pngs/290/845/png-transparent-money-loan-credit-bank-finance-bank-angle-payment-loan.png",
-      "titleOfMenuElemnt": "Банковские кредиты",
-      "offersTypeId": "2"
     },
     {
       "country": "RU",
       "iconForUpload": "https://ortmen.ru/upload/medialibrary/1d1/1d10d0a1b8b6b5c7ae8c86048b19556b.png",
       "titleOfMenuElemnt": "Займы",
-      "offersTypeId": "3"
+      "offersTypeId": "2"
     },
     {
       "country": "RU",
       "iconForUpload": "https://www.profi-credit.ru/upload/medialibrary/2c5/2c59dab07683b290ddf4082f35b54cdc.png",
       "titleOfMenuElemnt": "Кредитные карты",
-      "offersTypeId": "4"
+      "offersTypeId": "3"
     },
     {
       "country": "RU",
       "iconForUpload": "https://cdn.pixabay.com/photo/2018/06/08/00/50/credit-3461411_1280.png",
       "titleOfMenuElemnt": "Дебетовые карты",
-      "offersTypeId": "5"
+      "offersTypeId": "4"
     },
     {
       "country": "UA",
-      "iconForUpload": "",
+      "iconForUpload": "https://ortmen.ru/upload/medialibrary/1d1/1d10d0a1b8b6b5c7ae8c86048b19556b.png",
       "titleOfMenuElemnt": "Займы",
-      "offersTypeId": "3"
-    },
-    {
-      "country": "UA",
-      "iconForUpload": "http://garfondrt.ru/assets/app/img/icon/2_podgotovka.svg",
-      "titleOfMenuElemnt": "Банковские кредиты",
       "offersTypeId": "2"
     },
     {
       "country": "UA",
-      "iconForUpload": "http://garfondrt.ru/assets/app/img/icon/2_podgotovka.svg",
+      "iconForUpload": "https://financer.com/app/uploads/sites/25/2020/07/loan-calculator.png",
+      "titleOfMenuElemnt": "Банковские кредиты",
+      "offersTypeId": "1"
+    },
+    {
+      "country": "UA",
+      "iconForUpload": "https://www.profi-credit.ru/upload/medialibrary/2c5/2c59dab07683b290ddf4082f35b54cdc.png",
       "titleOfMenuElemnt": "Кредитные карты",
-      "offersTypeId": "4"
+      "offersTypeId": "3"
     },
     {
       "country": "KZ",
-      "iconForUpload": "http://garfondrt.ru/assets/app/img/icon/2_podgotovka.svg",
+      "iconForUpload": "https://ortmen.ru/upload/medialibrary/1d1/1d10d0a1b8b6b5c7ae8c86048b19556b.png",
       "titleOfMenuElemnt": "Займы",
-      "offersTypeId": "3"
+      "offersTypeId": "2"
     }
   ],
   "offersList": [
     {
       "country": "RU",
-      "offerTypeId": "3",
+      "offerTypeId": "1",
       "subId": "1",
-      "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
+      "iconForUpload": "https://419304.selcdn.ru/images.l406102/offers/10057/logo/",
       "offerTitle": "MoneyMan",
       "rating": "5/5",
-      "offerDescription": "Описание моего оффера",
+      "offerDescription": "Рефинансирование Займов",
+      "fullDescription": "Один займ, а не много разных микрокредитов в разных компаниях и сервисах"
+    },
+    {
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "2",
+      "iconForUpload": "https://foodcity.ru/storage/companies/February2019/5duSepVQUTbgbZ9xBAKy.png",
+      "offerTitle": "Газпромбанк",
+      "rating": "4/5",
+      "offerDescription": "Сумма: от 100 тыс. до 5 млн ₽",
+      "fullDescription": "Сумма: от 100 тыс. до 5 млн ₽"
+    },
+        {
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "3",
+      "iconForUpload": "https://419304.selcdn.ru/images.l406102/offers/10053/logo/",
+      "offerTitle": "Тинькофф",
+      "rating": "5/5",
+      "offerDescription": "Без залога и поручителей",
       "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
     },
     {
       "country": "RU",
       "offerTypeId": "3",
-      "subId": "1",
+      "subId": "4",
       "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
-      "offerTitle": "MYDATA",
-      "rating": "5/5",
+      "offerTitle": "Почта Банк",
+      "rating": "4/5",
       "offerDescription": "Описание моего оффера",
       "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
     },
-        {
+	{
       "country": "RU",
       "offerTypeId": "3",
-      "subId": "1",
+      "subId": "5",
       "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
-      "offerTitle": "MYDATA",
-      "rating": "5/5",
+      "offerTitle": "ВТБ 24",
+      "rating": "4/5",
       "offerDescription": "Описание моего оффера",
       "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
     },
-        {
+	{
       "country": "RU",
       "offerTypeId": "3",
-      "subId": "1",
+      "subId": "6",
       "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
-      "offerTitle": "MYDATA",
-      "rating": "5/5",
+      "offerTitle": "УБРиР Рефинансирование",
+      "rating": "4/5",
       "offerDescription": "Описание моего оффера",
       "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
     }
