@@ -77,7 +77,7 @@
     },
         {
       "country": "RU",
-      "offerTypeId": "3",
+      "offerTypeId": "1",
       "subId": "3",
       "iconForUpload": "https://419304.selcdn.ru/images.l406102/offers/10053/logo/",
       "offerTitle": "Тинькофф",
@@ -87,7 +87,7 @@
     },
     {
       "country": "RU",
-      "offerTypeId": "3",
+      "offerTypeId": "1",,
       "subId": "4",
       "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
       "offerTitle": "Почта Банк",
@@ -97,7 +97,7 @@
     },
 	{
       "country": "RU",
-      "offerTypeId": "3",
+	  "offerTypeId": "1",
       "subId": "5",
       "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
       "offerTitle": "ВТБ 24",
@@ -107,7 +107,7 @@
     },
 	{
       "country": "RU",
-      "offerTypeId": "3",
+      "offerTypeId": "1",
       "subId": "6",
       "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
       "offerTitle": "УБРиР Рефинансирование",
