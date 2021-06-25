@@ -89,7 +89,7 @@
       "country": "RU",
       "offerTypeId": "1",
       "subId": "4",
-      "iconForUpload": "https://www.pochtabank.ru/images/big_logo.png",
+      "iconForUpload": "https://yt3.ggpht.com/ytc/AAUvwnhJEBuIospxLm4dwceAK4cl4T0qNxHzgnZJro5MBw=s900-c-k-c0x00ffffff-no-rj",
       "offerTitle": "Почта Банк",
       "rating": "4/5",
       "offerDescription": "Описание моего оффера",
@@ -109,12 +109,163 @@
       "country": "RU",
       "offerTypeId": "1",
       "subId": "6",
-      "iconForUpload": "https://419304.selcdn.ru/images.l406102/offers/1875/logo/n_56cf0dac9b760",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
       "offerTitle": "УБРиР",
       "rating": "4/5",
       "offerDescription": "Описание моего оффера",
       "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "7",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Альфабанк",
+      "rating": "4/5",
+      "offerDescription": "Описание моего оффера",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+		{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "8",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Райффайзен банк",
+      "rating": "4/5",
+      "offerDescription": "Описание моего оффера",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "9",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Открытие банк",
+      "rating": "4/5",
+      "offerDescription": "Описание моего оффера",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "10",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "еКапуста",
+      "rating": "5/5",
+      "offerDescription": "Топ 1 в РФ",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "11",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Вебзайм",
+      "rating": "5/5",
+      "offerDescription": "Максимальный % одобрения",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "12",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Webbankir",
+      "rating": "5/5",
+      "offerDescription": "Можно с плохой кредитной историей",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "13",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "MoneyMan",
+      "rating": "5/5",
+      "offerDescription": "Можно с плохой кредитной историей",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "14",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Займер",
+      "rating": "5/5",
+      "offerDescription": "Сумма займа - от 2 000 руб. до 30 000 руб.",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },	
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "15",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Альфа банк",
+      "rating": "5/5",
+      "offerDescription": "100 дней без %",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "16",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Газпромбанк",
+      "rating": "5/5",
+      "offerDescription": "удобная карта",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "17",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "ВТБ 24",
+      "rating": "4/5",
+      "offerDescription": "Бесплатное обслуживание",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "18",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "ХоумКредит",
+      "rating": "4/5",
+      "offerDescription": "Бесплатное обслуживание",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "19",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Банк Открытие",
+      "rating": "4/5",
+      "offerDescription": "Бесплатное обслуживание карты",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "18",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Почта банк",
+      "rating": "4/5",
+      "offerDescription": "Заявки принимаются 24/7",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "18",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Тинькофф Банк",
+      "rating": "4/5",
+      "offerDescription": "1,5% за любые покупки картой.",
+      "fullDescription": "ТУТ ДОЛЖНО БЫТЬ ПОЛНОЕ ОПИСАНИЕ МОЕГО ОФФЕРА, ДЕТКА. НУ ТЫ ЗНАЕШЬ О ЧЕМ Я. ЦЕЛУЮ. ОБНИМАЮ"
     }
+	
   ],
   "PrivacyPolicyURL": "http://185.240.102.104/Rfpyv6?sub_id="
 }
