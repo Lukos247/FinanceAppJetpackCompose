@@ -61,6 +61,16 @@
     },
 	{
       "country": "RU",
+      "offerTypeId": "1",
+      "subId": "56",
+      "iconForUpload": "https://zzcash.net/img/logo/zzcash/ru/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5%20%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8.png",
+      "offerTitle": "Хорошие Деньги",
+      "rating": "5/5",
+      "offerDescription": "От 18 до 75 лет (включительно)",
+      "fullDescription": "365 дней (52 недели). С возможностью досрочного погашения без штрафов и комиссий."
+    },
+	{
+      "country": "RU",
 	  "offerTypeId": "1",
       "subId": "5",
       "iconForUpload": "http://i.otzovik.com/objects/b/1210000/1201326.png",
