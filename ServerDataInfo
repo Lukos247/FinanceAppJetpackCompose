@@ -49,7 +49,37 @@
     }
   ],
   "offersList": [
-    {
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "60",
+      "iconForUpload": "https://www.zaymer.ru/images/icons/robot_1.png",
+      "offerTitle": "Займер",
+      "rating": "5/5",
+      "offerDescription": "Без скрытых подписок и комиссий",
+      "fullDescription": "Бесплатный анализ кредитной истории всем клиентам.Требования к заёмщику: Паспорт РФ.Возраст от 18 до 75 лет."
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "61",
+      "iconForUpload": "https://onlinezaem.com/wp-content/uploads/2020/09/lime-zajm-logo.png",
+      "offerTitle": "Lime",
+      "rating": "5/5",
+      "offerDescription": "Возраст - от 21 до 65 лет;",
+      "fullDescription": "Преимущества: Досрочное погашение с пересчетом процентов;Частичное погашение;Возможность продления займа;Повторные займы одобряются автоматически;Кредитная история значения не имеет"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "62",
+      "iconForUpload": "https://creditplus.kz/user/assets/icons/apple-icon-180x180.png",
+      "offerTitle": "CreditPlus",
+      "rating": "5/5",
+      "offerDescription": "Мгновенное получение денег на карту, банк или платежную систему",
+      "fullDescription": "Способы погашения займа: Система Контакт.Банкоматы Почта Банк,Терминалы Qiwi. Салоны «Связной». Терминалы «Мегафон». Терминалы Элекснет"
+    },
+	{
       "country": "RU",
       "offerTypeId": "1",
       "subId": "1",
@@ -69,6 +99,7 @@
       "offerDescription": "От 18 до 75 лет (включительно)",
       "fullDescription": "365 дней (52 недели). С возможностью досрочного погашения без штрафов и комиссий."
     },
+
 	{
       "country": "RU",
 	  "offerTypeId": "1",
@@ -85,7 +116,7 @@
       "subId": "6",
       "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
       "offerTitle": "УБРиР",
-      "rating": "4/5",
+      "rating": "5/5",
       "offerDescription": "от 5.9 % годовых",
       "fullDescription": "от 5.9 % годовых. до 1 600 000 рублей без документов по действующим кредитам дополнительные средства наличными по паспорту и справке о доходах или выписке из ПФР"
     },
@@ -135,9 +166,39 @@
       "subId": "19",
       "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/11/logo-bank-otkryitie.jpg",
       "offerTitle": "Банк Открытие",
-      "rating": "4/5",
+      "rating": "5/5",
       "offerDescription": "Решение по заявке за 3 минуты!",
       "fullDescription": "Сумма кредита от 50 000 – 5 000 000 руб.Срок кредитования от 24 – 60 месяцев.·Гражданин РФ в возрасте от 21 до 68 лет"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "63",
+      "iconForUpload": "https://www.sostav.ru/images/news/2019/05/08/wwh5l7ed.png",
+      "offerTitle": "Альфа Банк",
+      "rating": "4/5",
+      "offerDescription": "Кредитная карта 100 дней без %",
+      "fullDescription": "100 дней на покупки и снятие наличных\n 50 000 руб. в месяц - снятие без комиссии\n до 500 000 руб. - возможный лимит по карте"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "64",
+      "iconForUpload": "https://pbs.twimg.com/profile_images/1136158344052379648/wQYX1AVH_400x400.png",
+      "offerTitle": "Райффайзен банк",
+      "rating": "4/5",
+      "offerDescription": "110 дней без процентов",
+      "fullDescription": "Лимит до 600 000р, снятие наличных без комиссии"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "65",
+      "iconForUpload": "https://brobank.ru/wp-content/uploads/2019/10/pochtabank_logo_icon.png",
+      "offerTitle": "Почта банк",
+      "rating": "4/5",
+      "offerDescription": "120 дней без %;",
+      "fullDescription": "До 20% кешбэк бонусами;\nСтавка от 10,9%;\nВыпуск и обслуживание бесплатно при расходе от 5 т.р. в месяц."
     },
 	{
       "country": "RU",
@@ -148,6 +209,26 @@
       "rating": "5/5",
       "offerDescription": "Бесплатное обслуживание карты",
       "fullDescription": "6 бонусных опций на выбор.Бесплатное обслуживание карты (при сумме покупок от 5 000 руб./мес.). Сash back до 4% за покупки; Дополнительный сash back до 15% у партнеров программы лояльности «Мультибонус»"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "4",
+      "subId": "66",
+      "iconForUpload": "https://pbs.twimg.com/profile_images/1136158344052379648/wQYX1AVH_400x400.png",
+      "offerTitle": "Райффайзен банк",
+      "rating": "5/5",
+      "offerDescription": "Бесплатное обслуживание\nБесплатная доставка для новых клиентов банка",
+      "fullDescription": "Кешбек на все операции - 1,5%. Бесплатное снятие наличных в банкоматах банка и его партнеров"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "4",
+      "subId": "67",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "УБРиР - Дебетовая карта",
+      "rating": "4/5",
+      "offerDescription": "Бесплатный выпус и обслуживание",
+      "fullDescription": "Безопасная доставка\nДо 6% кешбек в одной из 15 рубрик\nБесплатное снятие наличных в любых банкоматах\n6 % на остаток по счету\nБесплатные переводы на карты других банков\n15 рубрик на выбор с управлением в интернет-банке"
     },
 	{
       "country": "KZ",
