@@ -51,7 +51,7 @@
   "offersList": [
 	{
       "country": "RU",
-      "offerTypeId": "1",
+      "offerTypeId": "2",
       "subId": "60",
       "iconForUpload": "https://www.zaymer.ru/images/icons/robot_1.png",
       "offerTitle": "Займер",
@@ -61,7 +61,7 @@
     },
 	{
       "country": "RU",
-      "offerTypeId": "1",
+      "offerTypeId": "2",
       "subId": "61",
       "iconForUpload": "https://onlinezaem.com/wp-content/uploads/2020/09/lime-zajm-logo.png",
       "offerTitle": "Lime",
@@ -71,7 +71,7 @@
     },
 	{
       "country": "RU",
-      "offerTypeId": "1",
+      "offerTypeId": "2",
       "subId": "62",
       "iconForUpload": "https://creditplus.kz/user/assets/icons/apple-icon-180x180.png",
       "offerTitle": "CreditPlus",
