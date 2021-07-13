@@ -92,6 +92,16 @@
 	{
       "country": "RU",
       "offerTypeId": "1",
+      "subId": "68",
+      "iconForUpload": "https://jolzaim.ru/wp-content/uploads/2020/11/turbo-scaled.jpg",
+      "offerTitle": "MoneyMan",
+      "rating": "5/5",
+      "offerDescription": "Сумма займа от 3000 до 50 000 руб.",
+      "fullDescription": "Требования к заемщику: Возраст от 21 до 65. Гражданство РФ"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "1",
       "subId": "56",
       "iconForUpload": "https://zzcash.net/img/logo/zzcash/ru/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5%20%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8.png",
       "offerTitle": "Хорошие Деньги",
