@@ -49,46 +49,6 @@
     }
   ],
   "offersList": [
-{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "10",
-      "iconForUpload": "https://habrastorage.org/getpro/moikrug/uploads/company/999/993/917/logo/medium_618e5eef863c36af6b934319df792356.png",
-      "offerTitle": "еКапуста",
-      "rating": "5/5",
-      "offerDescription": "Топ 1 в РФ",
-      "fullDescription": "Займы предоставляются без обеспечения, в том числе без залога и поручительства."
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "60",
-      "iconForUpload": "https://www.zaymer.ru/images/icons/robot_1.png",
-      "offerTitle": "Займер",
-      "rating": "5/5",
-      "offerDescription": "Без скрытых подписок и комиссий",
-      "fullDescription": "Бесплатный анализ кредитной истории всем клиентам.Требования к заёмщику: Паспорт РФ.Возраст от 18 до 75 лет."
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "61",
-      "iconForUpload": "https://onlinezaem.com/wp-content/uploads/2020/09/lime-zajm-logo.png",
-      "offerTitle": "Lime",
-      "rating": "5/5",
-      "offerDescription": "Возраст - от 21 до 65 лет;",
-      "fullDescription": "Преимущества: Досрочное погашение с пересчетом процентов;Частичное погашение;Возможность продления займа;Повторные займы одобряются автоматически;Кредитная история значения не имеет"
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "62",
-      "iconForUpload": "https://creditplus.kz/user/assets/icons/apple-icon-180x180.png",
-      "offerTitle": "CreditPlus",
-      "rating": "5/5",
-      "offerDescription": "Мгновенное получение денег на карту, банк или платежную систему",
-      "fullDescription": "Способы погашения займа: Система Контакт.Банкоматы Почта Банк,Терминалы Qiwi. Салоны «Связной». Терминалы «Мегафон». Терминалы Элекснет"
-    },
 	{
       "country": "RU",
       "offerTypeId": "1",
@@ -102,22 +62,22 @@
 	{
       "country": "RU",
       "offerTypeId": "1",
-      "subId": "68",
-      "iconForUpload": "https://zaimme.ru/wp-content/uploads/2018/07/turbozaim-icon.png",
-      "offerTitle": "Турбозайм",
+      "subId": "56",
+      "iconForUpload": "https://pbs.twimg.com/profile_images/643522238638104578/g0f4KAo6.png",
+      "offerTitle": "Guru Cash",
       "rating": "5/5",
-      "offerDescription": "Сумма займа от 3000 до 50 000 руб.",
-      "fullDescription": "Требования к заемщику: Возраст от 21 до 65. Гражданство РФ"
+      "offerDescription": "Первый займ бесплатно",
+      "fullDescription": "Без комиссий и справок\nБезопасно и быстро: Экспресс-займ уже через 3 минуты после подачи заявки! Все данные шифруются и хранятся на надёжных серверах.\nАвтоматически обрабатываем все заявки, что позволяет нам всегда работать без праздников выходных."
     },
 	{
       "country": "RU",
       "offerTypeId": "1",
-      "subId": "56",
-      "iconForUpload": "https://zzcash.net/img/logo/zzcash/ru/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5%20%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8.png",
-      "offerTitle": "Хорошие Деньги",
-      "rating": "5/5",
-      "offerDescription": "От 18 до 75 лет (включительно)",
-      "fullDescription": "365 дней (52 недели). С возможностью досрочного погашения без штрафов и комиссий."
+      "subId": "68",
+      "iconForUpload": "https://zaimme.ru/wp-content/uploads/2018/07/turbozaim-icon.png",
+      "offerTitle": "Турбозайм",
+      "rating": "4/5",
+      "offerDescription": "Сумма займа от 3000 до 50 000 руб.",
+      "fullDescription": "Требования к заемщику: Возраст от 21 до 65. Гражданство РФ"
     },
 
 	{
@@ -150,16 +110,15 @@
       "offerDescription": "Решение по заявке за 3 минуты!",
       "fullDescription": "·Гражданин РФ в возрасте от 21 до 68 лет. ·Зарегистрированы в регионе присутствия банка. Минимальный ежемесячный доход по основному месту работы после налогообложения 15 000 рублей"
     },
-
 	{
       "country": "RU",
       "offerTypeId": "2",
-      "subId": "12",
-      "iconForUpload": "http://i.otzovik.com/objects/b/530000/527874.png",
-      "offerTitle": "Webbankir",
+      "subId": "10",
+      "iconForUpload": "https://habrastorage.org/getpro/moikrug/uploads/company/999/993/917/logo/medium_618e5eef863c36af6b934319df792356.png",
+      "offerTitle": "еКапуста",
       "rating": "5/5",
-      "offerDescription": "Можно с плохой кредитной историей",
-      "fullDescription": "Сумма займа: 1 000 до 15 000 рублей.До 30 000 рублей для повторного займа.Для постоянных клиентов - увеличение кредитного лимита и поэтапное снижение ставки"
+      "offerDescription": "Топ 1 в РФ",
+      "fullDescription": "Займы предоставляются без обеспечения, в том числе без залога и поручительства."
     },
 	{
       "country": "RU",
@@ -171,6 +130,56 @@
       "offerDescription": "Вы берете столько денег, сколько вам нужно.",
       "fullDescription": "Moneyman — это первая микрофинансовая компания в России, которая полностью ведет свою деятельность в интернете. Чтобы получить у нас заем не нужно ни выходить из дома, ни сканировать документы, ни пускать к себе домой непонятных администраторов или курьеров."
     },	
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "60",
+      "iconForUpload": "https://www.zaymer.ru/images/icons/robot_1.png",
+      "offerTitle": "Займер",
+      "rating": "5/5",
+      "offerDescription": "Без скрытых подписок и комиссий",
+      "fullDescription": "Бесплатный анализ кредитной истории всем клиентам.Требования к заёмщику: Паспорт РФ.Возраст от 18 до 75 лет."
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "62",
+      "iconForUpload": "https://creditplus.kz/user/assets/icons/apple-icon-180x180.png",
+      "offerTitle": "CreditPlus",
+      "rating": "5/5",
+      "offerDescription": "Мгновенное получение денег на карту, банк или платежную систему",
+      "fullDescription": "Способы погашения займа: Система Контакт.Банкоматы Почта Банк,Терминалы Qiwi. Салоны «Связной». Терминалы «Мегафон». Терминалы Элекснет"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "56",
+      "iconForUpload": "https://pbs.twimg.com/profile_images/643522238638104578/g0f4KAo6.png",
+      "offerTitle": "Guru Cash",
+      "rating": "5/5",
+      "offerDescription": "Первый займ бесплатно",
+      "fullDescription": "Без комиссий и справок\nБезопасно и быстро: Экспресс-займ уже через 3 минуты после подачи заявки! Все данные шифруются и хранятся на надёжных серверах.\nАвтоматически обрабатываем все заявки, что позволяет нам всегда работать без праздников выходных."
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "61",
+      "iconForUpload": "https://onlinezaem.com/wp-content/uploads/2020/09/lime-zajm-logo.png",
+      "offerTitle": "Lime",
+      "rating": "4/5",
+      "offerDescription": "Возраст - от 21 до 65 лет;",
+      "fullDescription": "Преимущества: Досрочное погашение с пересчетом процентов;Частичное погашение;Возможность продления займа;Повторные займы одобряются автоматически;Кредитная история значения не имеет"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "12",
+      "iconForUpload": "http://i.otzovik.com/objects/b/530000/527874.png",
+      "offerTitle": "Webbankir",
+      "rating": "4/5",
+      "offerDescription": "Можно с плохой кредитной историей",
+      "fullDescription": "Сумма займа: 1 000 до 15 000 рублей.До 30 000 рублей для повторного займа.Для постоянных клиентов - увеличение кредитного лимита и поэтапное снижение ставки"
+    },
 	{
       "country": "RU",
       "offerTypeId": "3",
