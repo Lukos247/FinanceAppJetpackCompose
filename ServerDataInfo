@@ -143,16 +143,6 @@
 	{
       "country": "RU",
       "offerTypeId": "2",
-      "subId": "81",
-      "iconForUpload": "http://zajmy-na-kartu.ru/upload/iblock/fa1/dozarplati.png",
-      "offerTitle": "До зарплаты",
-      "rating": "5/5",
-      "offerDescription": "99% одобрения заявок",
-      "fullDescription": "Возраст: от 20 лет до 60 лет\nГражданство РФ\nСписок документов: паспорт"
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "2",
       "subId": "13",
       "iconForUpload": "https://couponkodi.com/wp-content/themes/theme/style/images/logo/moneyman-ru-image.png",
       "offerTitle": "MoneyMan",
@@ -160,6 +150,17 @@
       "offerDescription": "Вы берете столько денег, сколько вам нужно.",
       "fullDescription": "Moneyman — это первая микрофинансовая компания в России, которая полностью ведет свою деятельность в интернете. Чтобы получить у нас заем не нужно ни выходить из дома, ни сканировать документы, ни пускать к себе домой непонятных администраторов или курьеров."
     },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "81",
+      "iconForUpload": "http://zajmy-na-kartu.ru/upload/iblock/fa1/dozarplati.png",
+      "offerTitle": "До зарплаты",
+      "rating": "5/5",
+      "offerDescription": "99% одобрения заявок",
+      "fullDescription": "Возраст: от 20 лет до 60 лет\nГражданство РФ\nСписок документов: паспорт"
+    },
+
 	{
       "country": "RU",
       "offerTypeId": "2",
