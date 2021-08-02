@@ -107,6 +107,16 @@
 	{
       "country": "RU",
       "offerTypeId": "2",
+      "subId": "61",
+      "iconForUpload": "https://onlinezaem.com/wp-content/uploads/2020/09/lime-zajm-logo.png",
+      "offerTitle": "Lime",
+      "rating": "5/5",
+      "offerDescription": "Возраст - от 21 до 65 лет;",
+      "fullDescription": "Преимущества: Досрочное погашение с пересчетом процентов;Частичное погашение;Возможность продления займа;Повторные займы одобряются автоматически;Кредитная история значения не имеет"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
       "subId": "10",
       "iconForUpload": "https://habrastorage.org/getpro/moikrug/uploads/company/999/993/917/logo/medium_618e5eef863c36af6b934319df792356.png",
       "offerTitle": "еКапуста",
@@ -153,17 +163,6 @@
       "rating": "5/5",
       "offerDescription": "99% одобрения заявок",
       "fullDescription": "Возраст: от 20 лет до 60 лет\nГражданство РФ\nСписок документов: паспорт"
-    },
-
-	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "61",
-      "iconForUpload": "https://onlinezaem.com/wp-content/uploads/2020/09/lime-zajm-logo.png",
-      "offerTitle": "Lime",
-      "rating": "5/5",
-      "offerDescription": "Возраст - от 21 до 65 лет;",
-      "fullDescription": "Преимущества: Досрочное погашение с пересчетом процентов;Частичное погашение;Возможность продления займа;Повторные займы одобряются автоматически;Кредитная история значения не имеет"
     },
 	{
       "country": "RU",
