@@ -155,16 +155,6 @@
 	{
       "country": "RU",
       "offerTypeId": "2",
-      "subId": "62",
-      "iconForUpload": "https://creditplus.kz/user/assets/icons/apple-icon-180x180.png",
-      "offerTitle": "CreditPlus",
-      "rating": "5/5",
-      "offerDescription": "Мгновенное получение денег на карту, банк или платежную систему",
-      "fullDescription": "Способы погашения займа: Система Контакт.Банкоматы Почта Банк,Терминалы Qiwi. Салоны «Связной». Терминалы «Мегафон». Терминалы Элекснет"
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "2",
       "subId": "82",
       "iconForUpload": "https://banksonline.com.ua/images/bank/61188f24396807ba7ca38919a158766de935852e.png",
       "offerTitle": "Credit7",
