@@ -12,18 +12,6 @@
       "offersTypeId": "2"
     },
     {
-      "country": "RU",
-      "iconForUpload": "https://www.profi-credit.ru/upload/medialibrary/2c5/2c59dab07683b290ddf4082f35b54cdc.png",
-      "titleOfMenuElemnt": "Кредитные карты",
-      "offersTypeId": "3"
-    },
-    {
-      "country": "RU",
-      "iconForUpload": "https://cdn.pixabay.com/photo/2018/06/08/00/50/credit-3461411_1280.png",
-      "titleOfMenuElemnt": "Дебетовые карты",
-      "offersTypeId": "4"
-    },
-    {
       "country": "UA",
       "iconForUpload": "https://ortmen.ru/upload/medialibrary/1d1/1d10d0a1b8b6b5c7ae8c86048b19556b.png",
       "titleOfMenuElemnt": "Займы",
