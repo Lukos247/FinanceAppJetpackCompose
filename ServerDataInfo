@@ -7,21 +7,9 @@
   "offersMainMenu": [
     {
       "country": "RU",
-      "iconForUpload": "https://financer.com/app/uploads/sites/25/2020/07/loan-calculator.png",
-      "titleOfMenuElemnt": "Рефинансирование займов и кредиты",
-      "offersTypeId": "1"
-    },
-    {
-      "country": "RU",
-      "iconForUpload": "https://www.profi-credit.ru/upload/medialibrary/2c5/2c59dab07683b290ddf4082f35b54cdc.png",
-      "titleOfMenuElemnt": "Кредитные карты",
-      "offersTypeId": "3"
-    },
-    {
-      "country": "RU",
-      "iconForUpload": "https://cdn.pixabay.com/photo/2018/06/08/00/50/credit-3461411_1280.png",
-      "titleOfMenuElemnt": "Дебетовые карты",
-      "offersTypeId": "4"
+      "iconForUpload": "https://ortmen.ru/upload/medialibrary/1d1/1d10d0a1b8b6b5c7ae8c86048b19556b.png",
+      "titleOfMenuElemnt": "Займы",
+      "offersTypeId": "2"
     },
     {
       "country": "UA",
@@ -43,6 +31,37 @@
     }
   ],
   "offersList": [
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "1",
+      "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
+      "offerTitle": "MoneyMan",
+      "rating": "5/5",
+      "offerDescription": "Один займ, а не много разных микрокредитов в разных компаниях и сервисах",
+      "fullDescription": "Один займ, а не много разных микрокредитов в разных компаниях и сервисах.Ниже переплата, потому что наша ставка в 10 раз ниже чем по обычным займам.Удобно и надежно, вы сами выбираете сколько и в какой день платить и все полностью онлайн Дополнительные - 50 тысяч рублей, если вам сейчас нужны дополнительные средства"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "56",
+      "iconForUpload": "https://pbs.twimg.com/profile_images/643522238638104578/g0f4KAo6.png",
+      "offerTitle": "Guru Cash",
+      "rating": "5/5",
+      "offerDescription": "Первый займ бесплатно",
+      "fullDescription": "Без комиссий и справок\nБезопасно и быстро: Экспресс-займ уже через 3 минуты после подачи заявки! Все данные шифруются и хранятся на надёжных серверах.\nАвтоматически обрабатываем все заявки, что позволяет нам всегда работать без праздников выходных."
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "68",
+      "iconForUpload": "https://zaimme.ru/wp-content/uploads/2018/07/turbozaim-icon.png",
+      "offerTitle": "Турбозайм",
+      "rating": "4/5",
+      "offerDescription": "Сумма займа от 3000 до 50 000 руб.",
+      "fullDescription": "Требования к заемщику: Возраст от 21 до 65. Гражданство РФ"
+    },
+
 	{
       "country": "RU",
 	  "offerTypeId": "1",
@@ -72,7 +91,97 @@
       "rating": "4/5",
       "offerDescription": "Решение по заявке за 3 минуты!",
       "fullDescription": "·Гражданин РФ в возрасте от 21 до 68 лет. ·Зарегистрированы в регионе присутствия банка. Минимальный ежемесячный доход по основному месту работы после налогообложения 15 000 рублей"
-    },	
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "61",
+      "iconForUpload": "https://onlinezaem.com/wp-content/uploads/2020/09/lime-zajm-logo.png",
+      "offerTitle": "Lime",
+      "rating": "5/5",
+      "offerDescription": "Возраст - от 21 до 65 лет;",
+      "fullDescription": "Преимущества: Досрочное погашение с пересчетом процентов;Частичное погашение;Возможность продления займа;Повторные займы одобряются автоматически;Кредитная история значения не имеет"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "10",
+      "iconForUpload": "https://habrastorage.org/getpro/moikrug/uploads/company/999/993/917/logo/medium_618e5eef863c36af6b934319df792356.png",
+      "offerTitle": "еКапуста",
+      "rating": "5/5",
+      "offerDescription": "Топ 1 в РФ",
+      "fullDescription": "Займы предоставляются без обеспечения, в том числе без залога и поручительства."
+    },
+    {
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "80",
+      "iconForUpload": "https://web-zaim.ru/filedata/web-zaim/fileadmin/marketplace/2/wz.png",
+      "offerTitle": "ВЕБЗАЙМ",
+      "rating": "5/5",
+      "offerDescription": "Первый займ под 0% до 30000 р",
+      "fullDescription": "от 1 500 руб до 30 000 руб. до 30 дней\nПервый займ под 0% до 30000 р, последующие займы по сниженной ставке до 0,8%.\nОнлайн решение по заявке в течение 5 минут\nМгновенное перечисление денег сразу после одобрения"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "60",
+      "iconForUpload": "https://www.zaymer.ru/images/icons/robot_1.png",
+      "offerTitle": "Займер",
+      "rating": "5/5",
+      "offerDescription": "Без скрытых подписок и комиссий",
+      "fullDescription": "Бесплатный анализ кредитной истории всем клиентам.Требования к заёмщику: Паспорт РФ.Возраст от 18 до 75 лет."
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "13",
+      "iconForUpload": "https://couponkodi.com/wp-content/themes/theme/style/images/logo/moneyman-ru-image.png",
+      "offerTitle": "MoneyMan",
+      "rating": "5/5",
+      "offerDescription": "Вы берете столько денег, сколько вам нужно.",
+      "fullDescription": "Moneyman — это первая микрофинансовая компания в России, которая полностью ведет свою деятельность в интернете. Чтобы получить у нас заем не нужно ни выходить из дома, ни сканировать документы, ни пускать к себе домой непонятных администраторов или курьеров."
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "81",
+      "iconForUpload": "http://zajmy-na-kartu.ru/upload/iblock/fa1/dozarplati.png",
+      "offerTitle": "До зарплаты",
+      "rating": "5/5",
+      "offerDescription": "99% одобрения заявок",
+      "fullDescription": "Возраст: от 20 лет до 60 лет\nГражданство РФ\nСписок документов: паспорт"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "82",
+      "iconForUpload": "https://banksonline.com.ua/images/bank/61188f24396807ba7ca38919a158766de935852e.png",
+      "offerTitle": "Credit7",
+      "rating": "5/5",
+      "offerDescription": "Процентная ставка: первый заем 0%",
+      "fullDescription": "Возраст заемщика от 18 до 75 лет\nСкидка до 28% на повторный заем по программе лояльности\n"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "12",
+      "iconForUpload": "http://i.otzovik.com/objects/b/530000/527874.png",
+      "offerTitle": "Webbankir",
+      "rating": "4/5",
+      "offerDescription": "Можно с плохой кредитной историей",
+      "fullDescription": "Сумма займа: 1 000 до 15 000 рублей.До 30 000 рублей для повторного займа.Для постоянных клиентов - увеличение кредитного лимита и поэтапное снижение ставки"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "68",
+      "iconForUpload": "https://zaimme.ru/wp-content/uploads/2018/07/turbozaim-icon.png",
+      "offerTitle": "Турбозайм",
+      "rating": "4/5",
+      "offerDescription": "Сумма займа от 3000 до 50 000 руб.",
+      "fullDescription": "Требования к заемщику: Возраст от 21 до 65. Гражданство РФ"
+    },
 	{
       "country": "RU",
       "offerTypeId": "3",
