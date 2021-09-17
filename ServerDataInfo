@@ -112,16 +112,6 @@
       "offerDescription": "Топ 1 в РФ",
       "fullDescription": "Займы предоставляются без обеспечения, в том числе без залога и поручительства."
     },
-    {
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "80",
-      "iconForUpload": "https://web-zaim.ru/filedata/web-zaim/fileadmin/marketplace/2/wz.png",
-      "offerTitle": "ВЕБЗАЙМ",
-      "rating": "5/5",
-      "offerDescription": "Первый займ под 0% до 30000 р",
-      "fullDescription": "от 1 500 руб до 30 000 руб. до 30 дней\nПервый займ под 0% до 30000 р, последующие займы по сниженной ставке до 0,8%.\nОнлайн решение по заявке в течение 5 минут\nМгновенное перечисление денег сразу после одобрения"
-    },
 	{
       "country": "RU",
       "offerTypeId": "2",
