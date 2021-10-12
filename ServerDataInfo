@@ -263,10 +263,10 @@
       "offerTypeId": "2",
       "subId": "290",
       "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
-      "offerTitle": "MoneyMan",
+      "offerTitle": "Займер",
       "rating": "5/5",
-      "offerDescription": "Минимальная сумма займа – 10 000 тенге",
-      "fullDescription": "• гражданство Казахстана; • возраст от 19 до 65 лет; • наличие номера счета (IBAN) банковской карты или текущего счета (для перечисления кредитных средств)."
+      "offerDescription": "сумма от 10 000 до 145 000 тенге",
+      "fullDescription": "Возможность оформить микрокредит онлайн, и получить деньги наличными в точках выдачи в Астане, Алматы, Караганде, Темиртау, Семей, Таразе, Павлодаре и других населенных пунктах. Время от оформления заявки до получения денег – 15 минут."
     },
 	{
       "country": "KZ",
@@ -282,22 +282,43 @@
       "country": "KZ",
       "offerTypeId": "2",
       "subId": "292",
-      "iconForUpload": "https://brobank.ru/wp-content/uploads/2019/12/zaym_kviku.png.webp",
-      "offerTitle": "Kviku",
-      "rating": "3/5",
-      "offerDescription": "Лимит кредитования: до 500,000 тенге;",
+      "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/06/logo-mfo-moneyman.jpg",
+      "offerTitle": "MoneyMan",
+      "rating": "5/5",
+      "offerDescription": "Минимальная сумма займа – 10 000 тенге",
+      "fullDescription": "• гражданство Казахстана; • возраст от 19 до 65 лет; • наличие номера счета (IBAN) банковской карты или текущего счета (для перечисления кредитных средств)."
+    },
+	{
+      "country": "KZ",
+      "offerTypeId": "2",
+      "subId": "293",
+      "iconForUpload": "https://bistro-credit.ru/bc/uploads/1574421993_753.jpg",
+      "offerTitle": "Koke",
+      "rating": "5/5",
+      "offerDescription": "Сумма займа: от 30 000 до 100 000 тг – 1-ый займ",
       "fullDescription": "•Гражданство Республика Казахстан. возраст: 18 - 65 лет;"
     },
 	{
       "country": "KZ",
       "offerTypeId": "2",
-      "subId": "30",
-      "iconForUpload": "https://zaimme.ru/wp-content/uploads/2018/07/chestnoe-slovo-icon.png",
-      "offerTitle": "Честное Слово",
+      "subId": "294",
+      "iconForUpload": "https://media.cdnandroid.com/item_images/1068419/imagen-creditplus-a-kredit-onlajn-na-kartu-0big.jpg",
+      "offerTitle": "CreditPlus",
       "rating": "5/5",
-      "offerDescription": "Оформление осуществляется по одному документу – паспорту гражданина РК",
-      "fullDescription": "Компания «Честное слово», зарегистрированная в РК в ноябре 2015 года, специализируется на кредитовании физических лиц. Наши займы доступны для получения совершеннолетними гражданами РК, имеющими стабильный доход и постоянную прописку в любом регионе страны. Оформление микрокредита осуществляется по одному документу – паспорту гражданина РК или удостоверению личности, без справки о доходах, поручителей и залога.30.12.2019г., ТОО «МФО «Akshabar» было включено в реестр микрофинансовых организаций за № 05.12.027.в данный момент лицензии не выдаются."
+      "offerDescription": "Минимальная сумма займа – 10 000 тенге",
+      "fullDescription": "Микрокредит можно оформить, не выходя из дома или работы, прямо на номер счета (IBAN) карты или номер текущего счета (IBAN) в банке;\nпервый кредит до 100 000 тенге;"
     },
+	{
+      "country": "KZ",
+      "offerTypeId": "2",
+      "subId": "295",
+      "iconForUpload": "https://credit365.md/wp-content/uploads/2021/01/credit-365-logo.png",
+      "offerTitle": "Credit365",
+      "rating": "5/5",
+      "offerDescription": "Минимальная сумма займа – 10 000 тенге",
+      "fullDescription": "прозрачные условия получения кредита;\nзаем быстро, без залога, без длительных процедур оформления и проверок.\nвозраст от 19 до 65 лет;"
+    },
+	
 	{
       "country": "UA",
       "offerTypeId": "2",
