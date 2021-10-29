@@ -92,6 +92,57 @@
       "offerDescription": "Решение по заявке за 3 минуты!",
       "fullDescription": "·Гражданин РФ в возрасте от 21 до 68 лет. ·Зарегистрированы в регионе присутствия банка. Минимальный ежемесячный доход по основному месту работы после налогообложения 15 000 рублей"
     },
+
+      {
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "80",
+      "iconForUpload": "https://web-zaim.ru/filedata/web-zaim/fileadmin/marketplace/2/wz.png",
+      "offerTitle": "ВебЗайм",
+      "rating": "ЛУЧШЕЕ ПРЕДЛОЖЕНИЕ",
+      "offerDescription": "Лучшие предложения",
+      "fullDescription": "От 3 000 до 30 000 рублей без процентов"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "12",
+      "iconForUpload": "http://i.otzovik.com/objects/b/530000/527874.png",
+      "offerTitle": "Webbankir",
+      "rating": "5/5",
+      "offerDescription": "Можно с плохой кредитной историей",
+      "fullDescription": "Сумма займа: 1 000 до 15 000 рублей.До 30 000 рублей для повторного займа.Для постоянных клиентов - увеличение кредитного лимита и поэтапное снижение ставки"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "9995",
+      "iconForUpload": "https://media.rbcdn.ru/media/company/a5tcdprrvgnj82ddjlq1jsv0bgtepxn8.jpg.238x400_q85.jpg",
+      "offerTitle": "Zaymigo",
+      "rating": "5/5",
+      "offerDescription": "Получение денег на карту",
+      "fullDescription": "Возраст заёмщика от 18 лет"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "81",
+      "iconForUpload": "http://zajmy-na-kartu.ru/upload/iblock/fa1/dozarplati.png",
+      "offerTitle": "До зарплаты",
+      "rating": "5/5",
+      "offerDescription": "99% одобрения заявок",
+      "fullDescription": "Возраст: от 20 лет до 60 лет\nГражданство РФ\nСписок документов: паспорт"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "9996",
+      "iconForUpload": "https://media.cdnandroid.com/item_images/1102498/imagen-creditter-0big.jpg",
+      "offerTitle": "Creditter",
+      "rating": "5/5",
+      "offerDescription": "Моментальное получение решения по заявке",
+      "fullDescription": "Получение денег на карту, на счет, наличными"
+    },
     
     	{
       "country": "RU",
@@ -103,16 +154,7 @@
       "offerDescription": "Вы берете столько денег, сколько вам нужно.",
       "fullDescription": "Moneyman — это первая микрофинансовая компания в России, которая полностью ведет свою деятельность в интернете. Чтобы получить у нас заем не нужно ни выходить из дома, ни сканировать документы, ни пускать к себе домой непонятных администраторов или курьеров."
     },
-         {
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "80",
-      "iconForUpload": "https://web-zaim.ru/filedata/web-zaim/fileadmin/marketplace/2/wz.png",
-      "offerTitle": "ВебЗайм",
-      "rating": "5/5",
-      "offerDescription": "Лучшие предложения",
-      "fullDescription": "От 3 000 до 30 000 рублей без процентов"
-    },
+   
         	{
       "country": "RU",
       "offerTypeId": "2",
@@ -122,16 +164,6 @@
       "rating": "5/5",
       "offerDescription": "Без скрытых подписок и комиссий",
       "fullDescription": "Бесплатный анализ кредитной истории всем клиентам.Требования к заёмщику: Паспорт РФ.Возраст от 18 до 75 лет."
-    },
-    	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "82",
-      "iconForUpload": "https://banksonline.com.ua/images/bank/61188f24396807ba7ca38919a158766de935852e.png",
-      "offerTitle": "Credit7",
-      "rating": "5/5",
-      "offerDescription": "Процентная ставка: первый заем 0%",
-      "fullDescription": "Возраст заемщика от 18 до 75 лет\nСкидка до 28% на повторный заем по программе лояльности\n"
     },
     
     	{
@@ -144,9 +176,6 @@
       "offerDescription": "Топ 1 в РФ",
       "fullDescription": "Займы предоставляются без обеспечения, в том числе без залога и поручительства."
     },
-
-    
-
 	{
       "country": "RU",
       "offerTypeId": "2",
@@ -156,37 +185,6 @@
       "rating": "5/5",
       "offerDescription": "Возраст - от 21 до 65 лет;",
       "fullDescription": "Преимущества: Досрочное погашение с пересчетом процентов;Частичное погашение;Возможность продления займа;Повторные займы одобряются автоматически;Кредитная история значения не имеет"
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "81",
-      "iconForUpload": "http://zajmy-na-kartu.ru/upload/iblock/fa1/dozarplati.png",
-      "offerTitle": "До зарплаты",
-      "rating": "5/5",
-      "offerDescription": "99% одобрения заявок",
-      "fullDescription": "Возраст: от 20 лет до 60 лет\nГражданство РФ\nСписок документов: паспорт"
-    },
-
-	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "12",
-      "iconForUpload": "http://i.otzovik.com/objects/b/530000/527874.png",
-      "offerTitle": "Webbankir",
-      "rating": "4/5",
-      "offerDescription": "Можно с плохой кредитной историей",
-      "fullDescription": "Сумма займа: 1 000 до 15 000 рублей.До 30 000 рублей для повторного займа.Для постоянных клиентов - увеличение кредитного лимита и поэтапное снижение ставки"
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "68",
-      "iconForUpload": "https://zaimme.ru/wp-content/uploads/2018/07/turbozaim-icon.png",
-      "offerTitle": "Турбозайм",
-      "rating": "4/5",
-      "offerDescription": "Сумма займа от 3000 до 50 000 руб.",
-      "fullDescription": "Требования к заемщику: Возраст от 21 до 65. Гражданство РФ"
     },
 	{
       "country": "RU",
